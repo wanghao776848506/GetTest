@@ -12,5 +12,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("hell git");
         System.out.println("这是测试代码2.0");
+        System.out.println("这还是成功人士");
     }
 }
